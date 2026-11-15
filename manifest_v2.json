@@ -1,0 +1,61 @@
+{
+  "item": {
+    "id": "com.fq.novelrt.rain.vela",
+    "restype": "quick_app",
+    "name": "番茄RT",
+    "description": "番茄RT 是给小米 Vela 手表做的番茄小说阅读器。首页把书架、榜单、分类和搜索放在一屏，抬手就能找书；点开即读，章节目录、上一章 / 下一章、字号调节都在手边，夜间、护眼、奶油、白底四种配色随时切换，阅读进度自动记住。手机扫码登录后，云端书架同步到手表，通勤路上接着上次那一页读。",
+    "preview": [
+      "media/preview-1-home.png",
+      "media/preview-2-rank.png",
+      "media/preview-3-category.png",
+      "media/preview-5-shelf.png"
+    ],
+    "icon": "media/fanqie-icon-512.png",
+    "cover": "media/fanqie-cover-1920x1280.jpg",
+    "author": [
+      {
+        "name": "nanzhi1",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "2.3.0",
+      "file_name": "downloads/fanqie-rt-vela-2.3.0-js.rpk",
+      "versionCode": 16
+    },
+    "xmrw5xring": {
+      "version": "2.3.0",
+      "file_name": "downloads/fanqie-rt-vela-2.3.0-js.rpk",
+      "versionCode": 16
+    },
+    "xmrw6": {
+      "version": "2.3.0",
+      "file_name": "downloads/fanqie-rt-vela-2.3.0-js.rpk",
+      "versionCode": 16
+    },
+    "xmb10p": {
+      "version": "2.3.0",
+      "file_name": "downloads/fanqie-rt-vela-2.3.0-js.rpk",
+      "versionCode": 16
+    },
+    "xmb9p": {
+      "version": "2.3.0",
+      "file_name": "downloads/fanqie-rt-vela-2.3.0-js.rpk",
+      "versionCode": 16
+    },
+    "xmws5": {
+      "version": "2.3.0",
+      "file_name": "downloads/fanqie-rt-vela-2.3.0-js.rpk",
+      "versionCode": 16
+    },
+    "xmws4": {
+      "version": "2.3.0",
+      "file_name": "downloads/fanqie-rt-vela-2.3.0-js.rpk",
+      "versionCode": 16
+    }
+  },
+  "ext": {}
+}
